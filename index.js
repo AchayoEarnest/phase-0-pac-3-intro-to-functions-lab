@@ -25,6 +25,6 @@ function sayHiToHeadphonedRoommate(string){
     }else if(string === string.toUpperCase(string)){
         return two;
     }else if(string === "Let's have dinner together!") {
-        return three
+        return three;
     }
 }
